@@ -1,11 +1,10 @@
 # 2A202600218_NguyenTienDat_Lab15
-Dưới đây là nội dung đã được viết lại hoàn toàn, giữ nguyên đầy đủ thông tin, số liệu, cấu trúc và tinh thần của bản gốc, nhưng được diễn đạt lại để tránh trùng lặp. Bạn có thể copy toàn bộ và paste vào Google Docs. Tên nhóm được để theo yêu cầu.
 
 ---
 
 # AICB-P1 · Ngày 15 — Phiếu bài tập 0–5 (Buổi sáng)
 **Kịch bản 3:** Trợ lý Tuyển sinh & Hỗ trợ Sinh viên  
-**Tên nhóm:** Nhóm 5  
+**Tên nhóm:** Nhóm C16  
 **Ngày:** 2026-04-22
 
 ---
